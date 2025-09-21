@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Merin Anna Johns</h2> <h3> About Me</h3><br> 👩‍💻I'm a B.Tech student<br>🤖 I love working on AI projects<br> 🪄I'm interested to work on problem solving
+<h2 align="left">Hi 👋! I'm Merin Anna Johns</h2> <h3> About Me</h3><br> 👩‍💻I'm a B.Tech student<br>🤖 I love working on AI projects<br> 🪄I'm interested to work on problem solving
 <h1> TECH STACK</h1>
 
 ### 💻 Tech Stack:
